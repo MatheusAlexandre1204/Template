@@ -1,6 +1,5 @@
 # Ocorrências Aéreas no Brasil
-git add <![Uploading image.png…]()
->
+git add <![Uploading image.png…]()>
 
 Este repositório contém dados e informações sobre ocorrências aéreas no Brasil, abrangendo uma variedade de incidentes e eventos relacionados à aviação. 
 
