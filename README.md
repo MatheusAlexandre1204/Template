@@ -1,5 +1,6 @@
 # Ocorrências Aéreas no Brasil
-git add <https://fastcompanybrasil.com/wp-content/webp-express/webp-images/uploads/2024/01/aviao-eletrico-1536x865.jpg.webp>
+git add <![Uploading image.png…]()
+>
 
 Este repositório contém dados e informações sobre ocorrências aéreas no Brasil, abrangendo uma variedade de incidentes e eventos relacionados à aviação. 
 
