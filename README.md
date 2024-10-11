@@ -54,3 +54,30 @@ Descrição do Gráfico
 
 Este gráfico é útil para entender a distribuição das ocorrências e pode servir como base para análises de segurança e medidas preventivas em diferentes regiões.
 
+# Dashboard Power BI - Análise de Ocorrências
+
+Este repositório apresenta um novo dashboard desenvolvido em Power BI, projetado para oferecer uma visão clara e otimizada dos dados de ocorrências.
+
+## Principais Recursos:
+- **Classificação das Ocorrências**: Visualize as ocorrências agrupadas por categoria, permitindo uma análise mais aprofundada.
+- **Total de Ocorrências**: Acompanhe o número total de ocorrências de forma intuitiva e em tempo real.
+- **Interface Otimizada**: Layout moderno e agradável, proporcionando uma experiência de usuário aprimorada e fácil navegação.
+
+![Captura de tela 2024-10-11 052455](https://github.com/user-attachments/assets/6988553c-20ea-4a28-82b1-dcd5753cb132)
+
+# Resumo das Atividades em Informática Aplicada
+
+Durante o curso de Informática Aplicada, exploramos diversas ferramentas e técnicas fundamentais para a análise e visualização de dados. 
+
+## Principais Atividades:
+
+- **Excel**: 
+  - Iniciamos com os conceitos básicos e avançamos para a elaboração de fórmulas como **SOMASE**, **ÍNDICE** e **CONT.SE**. 
+  - Utilizamos dados abertos disponíveis na internet para criar **gráficos**, facilitando a interpretação e a comunicação de resultados.
+
+- **Power BI**: 
+  - Aprendemos a desenvolver **dashboards interativos**, que nos proporcionaram uma nova perspectiva sobre a análise de dados.
+  - Integrando as informações trabalhadas no Excel, criamos visualizações dinâmicas e exploramos dados em tempo real.
+
+Essas experiências aprimoraram nossas habilidades em ferramentas de análise de dados e nos prepararam para aplicar conhecimentos em cenários práticos, desenvolvendo um olhar crítico e analítico sobre a informação.
+
