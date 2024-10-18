@@ -81,3 +81,6 @@ Durante o curso de Informática Aplicada, exploramos diversas ferramentas e téc
 
 Essas experiências aprimoraram nossas habilidades em ferramentas de análise de dados e nos prepararam para aplicar conhecimentos em cenários práticos, desenvolvendo um olhar crítico e analítico sobre a informação.
 
+![image](https://github.com/user-attachments/assets/e9ff2701-2cb9-4aee-8194-62d15a4200d4)
+
+
