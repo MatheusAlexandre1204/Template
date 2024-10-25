@@ -83,4 +83,6 @@ Essas experiências aprimoraram nossas habilidades em ferramentas de análise de
 
 ![image](https://github.com/user-attachments/assets/e9ff2701-2cb9-4aee-8194-62d15a4200d4)
 
+![image](https://github.com/user-attachments/assets/09c0a09a-696b-49d0-bf6d-3fb355cb5aaf)
+
 
