@@ -1,4 +1,4 @@
-# Ocorrências Aéreas no Brasil
+# Ocorrências Aéreas no Brasil e Atividades complementares
 ![image](https://github.com/user-attachments/assets/a78e4861-ec70-490c-9792-1b892c5b2bb4)
 
 Este repositório contém dados e informações sobre ocorrências aéreas no Brasil, abrangendo uma variedade de incidentes e eventos relacionados à aviação. 
@@ -81,8 +81,20 @@ Durante o curso de Informática Aplicada, exploramos diversas ferramentas e téc
 
 Essas experiências aprimoraram nossas habilidades em ferramentas de análise de dados e nos prepararam para aplicar conhecimentos em cenários práticos, desenvolvendo um olhar crítico e analítico sobre a informação.
 
-![image](https://github.com/user-attachments/assets/e9ff2701-2cb9-4aee-8194-62d15a4200d4)
+# Atividades finais com Power BI
+
+## Vizualização de metas de ocorrências:
+
+Foi desenvolvido um dashboard em Power BI que analisa dados abertos sobre acidentes aéreos, com foco na meta de redução de 1% desses incidentes. Além disso, foram estabelecidas metas específicas para lesões fatais de passageiros e tripulantes, bem como para lesões graves a tripulantes. A ferramenta permite visualizar e monitorar informações relevantes, ajudando a identificar padrões e áreas críticas. Com gráficos interativos e filtros personalizáveis, o dashboard oferece uma visão abrangente sobre a segurança na aviação e contribui para o acompanhamento dessas importantes metas.
 
 ![image](https://github.com/user-attachments/assets/09c0a09a-696b-49d0-bf6d-3fb355cb5aaf)
+
+## Vizualização da tarefa referente as metas:
+
+A imagem apresenta uma atividade realizada em Power BI, na qual foi solicitado o cálculo de metas de 1% para vendas. O objetivo é visualizar o desempenho em relação a essa meta, utilizando gráficos e indicadores que facilitem a análise dos resultados. Essa abordagem permite um acompanhamento mais eficiente e estratégico das vendas.
+
+![image](https://github.com/user-attachments/assets/e9ff2701-2cb9-4aee-8194-62d15a4200d4)
+
+
 
 
